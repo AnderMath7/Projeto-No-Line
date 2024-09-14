@@ -1,8 +1,7 @@
 ![NoLine](https://user-images.githubusercontent.com/86412432/196801869-4588d30d-9149-4892-9d5b-b6b5690db22a.png)
 <hr>
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-# Índice 
+![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Funcionalidades](#funcionalidades)
